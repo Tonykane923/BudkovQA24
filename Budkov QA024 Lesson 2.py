@@ -5,4 +5,4 @@ print("Unless you do")
 
 print("=======================================")
 
-print("\"     Anyone\ nwho stops learning\n   is old,\nwhether\n        at twenty or eighty\".\nHenry Ford")
+print("\"    Anyone\n who stops learning\n   is   old,\n   whether\n    at twenty or eighty\".\nHenry Ford")
