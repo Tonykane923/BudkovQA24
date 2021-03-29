@@ -1,4 +1,4 @@
-# пишем функцию
+
 def Complex(n):
     if n <= 1 or n <= 3:
         return False
@@ -12,7 +12,7 @@ def Complex(n):
     return False
 
 
-# пример вызова
+
 x = int(input('Введите число: '))
 if Complex(x):
     print('Число {} - составное'.format(x))
